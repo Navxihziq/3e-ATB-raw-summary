@@ -2,7 +2,7 @@
 data/
 
 # playground for testing
-test.ipynb
+tests.ipynb
 
 # DS_Store
 .DS_Store
