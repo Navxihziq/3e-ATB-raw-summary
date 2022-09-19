@@ -1,6 +1,9 @@
 # data files
 data/
 
+# playground for testing
+test.ipynb
+
 # DS_Store
 .DS_Store
 
